@@ -1,11 +1,8 @@
 # Agentic Architecture Demo - Calculator Operations with LLM and RAG
-
+![LLM-Calculator](https://github.com/user-attachments/assets/424082e7-e5d6-41b0-9e60-56405c776c6a)
 ## Overview
 
 This demo showcases the use of **Agentic Architecture** to select calculator operations using a **Large Language Model (LLM)**. Additionally, it demonstrates **Retrieval-Augmented Generation (RAG)** on the meta-information of calculator functions to provide context-aware insights and suggestions for operation selection.
-
-![LLM-Calculator](https://github.com/user-attachments/assets/424082e7-e5d6-41b0-9e60-56405c776c6a)
-
 
 ### Key Components:
 
